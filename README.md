@@ -47,15 +47,7 @@ Abre `MapaITSUR.java`. Cada conexión tiene este formato:
 ```
 Cambia los nombres o el número de metros. Las conexiones son bidireccionales. Todos los nombres deben coincidir exactamente con los lugares registrados.
 
-## Requisitos del documento cubiertos
-- Selección de origen y destino.
-- Ejecución de Dijkstra.
-- Mostrar ruta y distancia total.
-- Aviso cuando no exista ruta.
-- Clases Lugar, Arista y Grafo.
-- Listas de adyacencia, vértices y aristas.
-- Consulta de conexiones.
-- Cinco pruebas de ejemplo.
+Rama destinada al desarrollo de la estructura del grafo del ITSUR.
 - Representación gráfica de la ruta.
 
 ## Evidencias de GitHub
